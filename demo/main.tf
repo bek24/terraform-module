@@ -13,6 +13,8 @@ module "mymodule1" {
 module "module2" {
   source = ""
 }
-resource "aws_instance" "name" {
+resource "aws_instance" "new change" {
   
 }
+
+#This was added on Date
